@@ -1,16 +1,18 @@
-### Hi there 👋
+## Let the games begin !
 
-<!--
-**minxxcozy/minxxcozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⛹️‍♀️ Introduction
+* 데이터사이언스학과 / ??? (2027)
+* 불확실성 속에서 **꾸준히 도전**할 수 있는, **도회적인 개발자**가 되고자 합니다 🙌
 
-Here are some ideas to get you started:
+### 📚 Once I've Studied
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Editor
+<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+
+### 💻 Algorithm
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=brianna0324)](https://solved.ac/brianna0324) <a href="https://codeforces.com/profile/brianna0324"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+### 🌐 About Me
+<a href="https://velog.io/@minxxcozy"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Blogger&logoColor=white"/></a> 
