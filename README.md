@@ -1,16 +1,18 @@
-## Let the games begin !
+## Always be Quod Erat Demonstrandum !
 
 ### ⛹️‍♀️ Introduction
-* 데이터사이언스학과 / ??? (2027)
-* 불확실성 속에서 **꾸준히 도전**할 수 있는, **도회적인 개발자**가 되고자 합니다 🙌
+* Goal : make my own mobile app (sensual & creative design)
+* Be into **baseaball**, **modern physics**, and **appreciate paintings**
 
 ### 📚 Once I've Studied
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
 
 ### 🛠 Editor
-<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 ### 💻 Algorithm
+* Problem solving with ***Python***, ***C++***
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=brianna0324)](https://solved.ac/brianna0324) <a href="https://codeforces.com/profile/brianna0324"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
