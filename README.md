@@ -5,7 +5,7 @@
 * 🗨️ : How far can ur dreams take you !
 
 ## 📚 Once I've Studied
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,nodejs,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,ubuntu)](https://skillicons.dev)
 
 ## 🛠 Editor & Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim,obsidian)](https://skillicons.dev)
