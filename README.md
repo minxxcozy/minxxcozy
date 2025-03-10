@@ -1,8 +1,7 @@
 ## ⛹️‍♀️ About Me
-* Wanna be a **Research Engineer**
 * B.A. degree expected in **Future Mobility**, College of **Automotive Engineering**
-* INTEREST : Baseball (*really into sports*), Reading, Hacking
-* 🗨️ : How far can ur dreams take you !
+* WhiteHat School 3rd
+* Interested in vehicle cyber security
 
 ## 📚 Once I've Studied
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,ubuntu)](https://skillicons.dev)
