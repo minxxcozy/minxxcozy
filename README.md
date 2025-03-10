@@ -4,10 +4,10 @@
 * Interested in vehicle cyber security
 
 ## 📚 Once I've Studied
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs)](https://skillicons.dev)
 
 ## 🛠 Editor & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,ubuntu)](https://skillicons.dev)
 
 ## 💻 Algorithm
 * Problem solving with ***Python***, ***C++***
