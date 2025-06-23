@@ -1,6 +1,7 @@
 ### ⛹️‍♀️ About Me
 * B.A. degree expected in **Future Mobility**, College of **Automotive Engineering**
-* Interested in vehicle cyber security
+* WhiteHat School 3rd
+* Interested in Automotive Cybersecurity, Pwnable, AI Security
 
 ### 📚 Once I've Studied
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,rust,go)](https://skillicons.dev)
