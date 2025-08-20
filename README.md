@@ -1,5 +1,5 @@
 ### ⛹️‍♀️ About Me
-* B.S. in **Future Mobility**, College of **Automotive Engineering** (Expected Feb 2028) 
+* B.Eng. in **Future Mobility**, College of **Automotive Engineering** (Expected Aug 2028) 
 * WhiteHat School 3rd
 * Interested in Automotive Cybersecurity, Pwnable and AI Security
 
