@@ -1,7 +1,8 @@
 ### ⛹️‍♀️ About Me
-* B.Eng. in **Future Mobility**, College of **Automotive Engineering** (Expected Aug 2028) 
-* WhiteHat School 3rd
-* Interested in Automotive Cybersecurity, Pwnable and AI Security
+* B.Eng. in **Future Mobility**, College of **Automotive Engineering** (Expected Aug 2028)
+* Minor in **Software Engineering**
+* WhiteHat School 3rd Cohort
+* Focus areas : Automotive Cybersecurity, Pwnable and AI Security
 
 ### 📚 Once I've Studied
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,rust,go)](https://skillicons.dev)
