@@ -1,17 +1,28 @@
-### ⛹️‍♀️ About Me
-* B.Eng. in **Future Mobility**, College of **Automotive Engineering** (Expected Aug 2028)
-* Minor in **Software Engineering**
-* WhiteHat School 3rd Cohort
-* Focus areas : Automotive Cybersecurity, Pwnable and AI Security
+## ⛹️‍♀️ About Me
+Hi, I'm **Minchae Kim**, aspiring **Security Engineer** passionate about **automotive cybersecurity** 👋 
+- Currently building **Zero-Trust OTA update pipeline with SBOM-based static & dynamic verification** and developing **CAN/UDS vehicle fuzzer**.
+- Also interested in **pwnable** challenges and **AI security** research
 
-### 📚 Once I've Studied
+## 🎓 Education
+**Kookmin University**   |   Seoul, Korea
+- **B.Eng. in Future Mobility**, College of Automotive Engineering *(Expected Aug 2028)*
+- Minor in **Software Engineering**
+
+## 🛡️ Cyber Security Activities
+- **WhiteHat School** 3rd Cohort *(Mar 2025 – Sep 2025)*
+- **AutoHack 2025 Winner** *(Automotive Hacking & Defense Competition)*
+- **KUSE** (Kookmin University cyberSEcurity) Leader @ Kookmin University *(2026 ~ )*
+
+
+## 📚 Once I've Studied
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,nodejs,rust,go)](https://skillicons.dev)
 
-### 🛠 Editor & Tools
+## 🛠 Editor & Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,ubuntu,docker,raspberrypi,arduino,ros,qt)](https://skillicons.dev)
 
-### 💻 Algorithm
-* Problem solving with ***Python***, ***C++***
+## 💻 Algorithm & Problem Solving
+- Solving algorithmic problems with **Python** and **C++**
+- Active on **Solved.ac** *(Baekjoon handle: brianna0324)*
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianna0324)](https://solved.ac/brianna0324/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=brianna0324&theme=warm)
