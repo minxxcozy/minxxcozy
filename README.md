@@ -1,7 +1,7 @@
 ## ⛹️‍♀️ About Me
 Hi, I'm **Minchae Kim**, aspiring **Security Engineer** passionate about **automotive cybersecurity**🏎️🏁
 - Currently building **Zero-Trust OTA update pipeline with SBOM-based static & dynamic verification** and developing **CAN vehicle fuzzer**.
-- Also interested in **pwnable** challenges and **AI security** research
+- Interested in **embedded hacking** and **automotive cybersecurity**
 
 ## 🎓 Education
 📍 **Kookmin University**   |   Seoul, Korea
@@ -9,6 +9,7 @@ Hi, I'm **Minchae Kim**, aspiring **Security Engineer** passionate about **autom
 - Minor in **Software Engineering**
 
 ## 🛡️ Cyber Security Activities
+- **Best of the Best (BoB) 15th** – Vulnerability Analysis Trainee *(2026 – Present)*
 - **WhiteHat School** 3rd Cohort *(Mar 2025 – Sep 2025)*
 - **AutoHack 2025 Winner** | Automotive Hacking & Defense Competition *(Nov 2025)*
 - **KUSE** (Kookmin University cyberSEcurity) **Leader** @ Kookmin University *(Jan 2026 - )*
