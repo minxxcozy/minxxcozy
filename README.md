@@ -1,19 +1,17 @@
 ## ⛹️‍♀️ About Me
-Hi, I'm **Minchae Kim**, aspiring **Security Engineer** passionate about **automotive cybersecurity**🏎️🏁
-- Currently building **Zero-Trust OTA update pipeline with SBOM-based static & dynamic verification** and developing **CAN vehicle fuzzer**.
-- Interested in **embedded hacking** and **automotive cybersecurity**
+Hi, I'm **Minchae Kim**, aspiring **Security Engineer** passionate about **Automotive Cybersecurity**🏎️🏁
+* **Interests :** Embedded Hacking, Watching Sports ⚾️⚽️🏀
 
 ## 🎓 Education
 📍 **Kookmin University**   |   Seoul, Korea
 - **B.Eng. in Future Mobility**, College of Automotive Engineering *(Expected Aug 2028)*
 - Minor in **Software Engineering**
 
-## 🛡️ Cyber Security Activities
-- **Best of the Best (BoB) 15th** – Vulnerability Analysis Trainee *(2026 – Present)*
+## 🛡️ Cybersecurity Activities
+- **Best of the Best (BoB) 15th** – Vulnerability Analysis Trainee *(July 2026 – Present)*
+- **KUSE** (Kookmin University cyberSEcurity) **Leader** @ Kookmin University *(Jan 2026 – Present)*
+- AutoHack 2025 Winner | Automotive Hacking & Defense Competition *(Nov 2025)*
 - **WhiteHat School** 3rd Cohort *(Mar 2025 – Sep 2025)*
-- **AutoHack 2025 Winner** | Automotive Hacking & Defense Competition *(Nov 2025)*
-- **KUSE** (Kookmin University cyberSEcurity) **Leader** @ Kookmin University *(Jan 2026 - )*
-
 
 ## 📚 Once I've Studied
 [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
@@ -29,4 +27,3 @@ Hi, I'm **Minchae Kim**, aspiring **Security Engineer** passionate about **autom
 - Active on **Solved.ac** *(Baekjoon handle: brianna0324)*
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianna0324)](https://solved.ac/brianna0324/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=brianna0324&theme=warm)
